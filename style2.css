@@ -1,0 +1,25 @@
+*{
+    background-color: darkgray;
+}
+
+
+button{
+    padding: 5px;
+    width: 100px;
+    margin:  8px;
+    background-color: aliceblue;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-color: rgb(244, 2, 6);
+    font-size: 22px;
+    
+}
+input{
+    padding: 8px;
+    font-size: 22px;
+    background-color: rgb(250, 204, 143);
+    border-radius: 10px;
+}
+label{
+    font-size: 30px;
+}
